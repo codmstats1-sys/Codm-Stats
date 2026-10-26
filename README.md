@@ -1,2 +1,2 @@
 # Codm-Stats
-Assistente de estátiscas para jogadores competitivo de call of duty mobile
+Statistics assistant for competitive Call of Duty: Mobile players
